@@ -9,3 +9,5 @@ Note: TH = Thermal history; Hermit = Hairy hermit crab (Pagurus hirsutiusculus);
 Figures Script - Contains all code to make the figures and supplementary figures within the paper
 Q10 Script - Contains all code to calculate Q10 values from the raw MO2 data
 RangelandSorte_TH Script - Contains all the code to run the models used in this paper
+
+Code: <a href="https://zenodo.org/badge/latestdoi/361026520"><img src="https://zenodo.org/badge/361026520.svg" alt="DOI"></a>
